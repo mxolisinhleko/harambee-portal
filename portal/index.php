@@ -1,6 +1,6 @@
 <?php
 
-// Product Name : Smart Tenant
+// Product Name : Smart Tenant by VergeOn 
 // Version      : 2.1
 
 /**
